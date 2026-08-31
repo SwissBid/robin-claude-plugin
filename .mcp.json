@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "robin": {
+      "type": "http",
+      "url": "https://mcp.hi-robin.ai/v6-claude/mcp"
+    }
+  }
+}

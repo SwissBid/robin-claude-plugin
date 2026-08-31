@@ -1,0 +1,24 @@
+Copyright (c) 2026 SwissBid GmbH. All rights reserved.
+
+This repository contains the Claude plugin packaging for Robin: skill definitions,
+plugin manifests, and the bundled MCP server connection.
+
+Permission is granted to any person obtaining a copy of this repository to install,
+use, and evaluate the plugin with Claude, and to redistribute it unmodified for that
+purpose.
+
+You may not sell this software, offer it as a hosted service, or use the Robin or
+RobinReal names or marks to endorse or promote derived products without prior written
+permission from SwissBid GmbH.
+
+The Robin MCP server and the listing data it serves are operated by SwissBid GmbH and
+are not covered by this licence. Use of the hosted service is governed by the Terms of
+Service at https://robinreal.ai/AGBs and the Privacy Policy at
+https://robinreal.ai/datenschutz.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

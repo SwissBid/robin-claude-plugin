@@ -1,0 +1,29 @@
+{
+  "name": "robinreal",
+  "owner": {
+    "name": "SwissBid GmbH",
+    "url": "https://robinreal.ai"
+  },
+  "description": "Official Claude plugins from SwissBid GmbH, makers of Robin — Swiss real-estate search.",
+  "plugins": [
+    {
+      "name": "robin",
+      "source": "./",
+      "description": "Find, compare, save, and apply to Swiss property listings with Robin.",
+      "version": "1.0.0",
+      "author": {
+        "name": "SwissBid GmbH",
+        "url": "https://robinreal.ai"
+      },
+      "homepage": "https://robinreal.ai",
+      "license": "LicenseRef-Proprietary",
+      "keywords": [
+        "real-estate",
+        "switzerland",
+        "property-search",
+        "rentals",
+        "housing"
+      ]
+    }
+  ]
+}

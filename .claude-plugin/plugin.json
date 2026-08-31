@@ -1,0 +1,21 @@
+{
+  "name": "robin",
+  "version": "1.0.0",
+  "description": "Find, compare, save, and apply to Swiss property listings with Robin.",
+  "author": {
+    "name": "SwissBid GmbH",
+    "url": "https://robinreal.ai"
+  },
+  "homepage": "https://robinreal.ai",
+  "repository": "https://github.com/SwissBid/robin-claude-plugin",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "real-estate",
+    "switzerland",
+    "property-search",
+    "rentals",
+    "housing"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
